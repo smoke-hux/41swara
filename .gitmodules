@@ -1,0 +1,3 @@
+[submodule "passwordstore/lib/openzeppelin-contracts"]
+	path = passwordstore/lib/openzeppelin-contracts
+	url = https://github.com/openzeppelin/openzeppelin-contracts
